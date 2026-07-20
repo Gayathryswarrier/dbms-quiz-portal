@@ -1,1 +1,0 @@
-# dbms-quiz-portal
